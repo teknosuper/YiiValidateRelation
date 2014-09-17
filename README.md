@@ -1,0 +1,4 @@
+YiiValidateRelation
+===================
+
+CFormModel validasi relasi
